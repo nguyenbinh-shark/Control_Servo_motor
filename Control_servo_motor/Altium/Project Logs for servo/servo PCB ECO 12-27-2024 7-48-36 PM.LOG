@@ -1,0 +1,7 @@
+Change Component Designator: OldDesignator=c  NewDesignator=VR?
+Added Pin To Net: NetName=+12 Pin=IC7805-1
+Added Pin To Net: NetName=+12 Pin=JDC1-1
+Added Member To Class: ClassName=servo Member=Component C2 Header2
+Added Member To Class: ClassName=servo Member=Component IC? ATMEL 16A
+Added Member To Class: ClassName=servo Member=Component VR? 50K
+Added Room: Name=servo
