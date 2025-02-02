@@ -39,9 +39,8 @@ This project uses an ATmega16 microcontroller to control a 2-degree-of-freedom (
 |-- README.md        // Project documentation
 ```
 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
+## VIDEO
+[Video demo]{https://youtu.be/pzzcMIFderI}
 ## Author
 [Your Name]  
 [Contact Information]
