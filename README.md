@@ -40,7 +40,7 @@ This project uses an ATmega16 microcontroller to control a 2-degree-of-freedom (
 ```
 
 ## VIDEO
-[Video demo]{https://youtu.be/pzzcMIFderI}
+[Video demo](https://youtu.be/pzzcMIFderI)
 ## Author
 [Your Name]  
 [Contact Information]
